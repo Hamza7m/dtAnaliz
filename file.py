@@ -1,4 +1,5 @@
 import numpy as np 
+
 print("Hello world from main ")
 list = [1,2,3,4,4,7,4]
 
@@ -19,3 +20,4 @@ newList = np.add(array,num)
 for x in range(len(array)):
     print(str(i) + ".iter" + str(newList[x]))
     
+
